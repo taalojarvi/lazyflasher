@@ -61,9 +61,9 @@ umount() {
 }
 
 print "#######################################"
-print "#           kernel flasher            #"
-print "#      by jcadduono, version 5.1      #"
-print "#   add your own intro message here!  #"
+print "#         Stratosphere Kernel         #"
+print "#      by taalojarvi, version RC      #"
+print "#            No Turbulence            #"
 print "#######################################"
 
 # Unpack the installer

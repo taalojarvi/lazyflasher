@@ -1,6 +1,6 @@
-NAME ?= kernel-flasher
+NAME ?= Stratosphere
 
-VERSION ?= 5.1
+VERSION ?= RC
 
 DATE := $(shell date +'%Y%m%d-%H%M')
 
